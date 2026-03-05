@@ -57,12 +57,13 @@ p{
   /*top: 0px;*/
   top: 300px;
   left: 0px;
-
+  z-index: 10;
 }
 
 .sticky {
   background: #232946;
   color: #b8c1ec;
   border: 5px solid #eebbc3;
-  
+  position: sticky; 
+  top: 50px;
 }
