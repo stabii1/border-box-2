@@ -28,13 +28,14 @@ p{
   background: #ffc0ad;
   color: #271c19;
   border: 5px solid #9656a1;
-  
+  Position: static;
 }
 
 .relative {
   background: #172c66;
   border: 5px solid #f582ae;
-  
+  Position: relative;
+  top: 20px;
 }
 
 .absolute {
