@@ -53,7 +53,11 @@ p{
   background: #ffd803;
   color: #272343;
   border: 5px solid #272343;
-  
+  position: fixed;
+  /*top: 0px;*/
+  top: 300px;
+  left: 0px;
+
 }
 
 .sticky {
